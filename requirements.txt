@@ -10,7 +10,6 @@ decorator==4.4.2
 defusedxml==0.6.0
 entrypoints==0.3
 importlib-metadata==3.4.0
-ipykernel @ file:///tmp/build/80754af9/ipykernel_1596206598566/work/dist/ipykernel-5.3.4-py3-none-any.whl
 ipython @ file:///tmp/build/80754af9/ipython_1604101195213/work
 ipython-genutils @ file:///tmp/build/80754af9/ipython_genutils_1606773439826/work
 ipywidgets==7.6.3

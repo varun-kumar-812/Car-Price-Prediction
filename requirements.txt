@@ -10,8 +10,6 @@ decorator==4.4.2
 defusedxml==0.6.0
 entrypoints==0.3
 importlib-metadata==3.4.0
-ipython @ file:///tmp/build/80754af9/ipython_1604101195213/work
-ipython-genutils @ file:///tmp/build/80754af9/ipython_genutils_1606773439826/work
 ipywidgets==7.6.3
 jedi @ file:///tmp/build/80754af9/jedi_1611333758854/work
 Jinja2==2.11.2

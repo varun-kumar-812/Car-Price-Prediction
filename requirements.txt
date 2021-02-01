@@ -11,7 +11,6 @@ defusedxml==0.6.0
 entrypoints==0.3
 importlib-metadata==3.4.0
 ipywidgets==7.6.3
-jedi @ file:///tmp/build/80754af9/jedi_1611333758854/work
 Jinja2==2.11.2
 joblib==1.0.0
 jsonschema==3.2.0
